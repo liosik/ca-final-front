@@ -1,0 +1,54 @@
+.border {
+  border: 3px solid black;
+  padding: 3px;
+}
+
+input {
+  height: 30px;
+  border-radius: 5px;
+  background-color: #c49fff;
+}
+
+
+.m-20 {
+  margin: 20px;
+}
+
+.mb-200 {
+  margin-bottom: 200px;
+}
+
+.h-200 {
+  height: 200px;
+}
+
+.w-200 {
+  width: 200px;
+}
+
+.roundImg {
+  height: 100px;
+  width: 100px;
+  border: 2px solid;
+  border-radius: 50%;
+}
+
+.container {
+  height: 150%;
+}
+
+button {
+  margin:10px;
+  border: 2px solid #a4e6fd;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #a6a6a6;
+}
+
+.thread {
+  width: 100%;
+  border: 2px solid #a4e6fd;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #a6a6a6;
+}
